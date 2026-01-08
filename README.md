@@ -104,6 +104,7 @@ Imperial College London | London, UK | 2021
 
 - [Project Details](./projects/)
 - [Resume/CV](./resume/)
+- [한국어 포트폴리오](https://github.com/Drakvor/Portfolio_KR)
 
 ---
 
