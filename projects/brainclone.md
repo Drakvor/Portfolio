@@ -3,6 +3,7 @@
 **Duration**: June 2025 - Present (Ongoing)  
 **Status**: Phase 1 Operational, Continuous Improvement  
 **Role**: Tech Lead (Full-Stack & AI Platform)  
+**Repository**: [GitHub - OSS-Knowledge_BrainClone](https://github.com/Drakvor/OSS-Knowledge_BrainClone)  
 **Demo**: [Watch Demo Video](https://www.youtube.com/watch?v=ZQj75tLnvwk)
 
 ---
@@ -192,6 +193,7 @@ As Tech Lead, I was responsible for:
 
 ## Links
 
+- [GitHub Repository](https://github.com/Drakvor/OSS-Knowledge_BrainClone)
 - [Demo Video](https://www.youtube.com/watch?v=ZQj75tLnvwk)
 - [Back to Portfolio](../README.md)
 

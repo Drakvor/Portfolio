@@ -13,7 +13,7 @@
 - **이메일**: garham.a.kwon@gmail.com
 - **위치**: 서울, 대한민국
 - **LinkedIn**: [LinkedIn 프로필]
-- **GitHub**: [GitHub 프로필]
+- **GitHub**: [https://github.com/Drakvor](https://github.com/Drakvor)
 
 ---
 
@@ -29,7 +29,7 @@
 
 **주요 기술**: MCP (Model Context Protocol), 멀티 에이전트 시스템, Graph RAG, Neo4j, Qdrant, mem0, Azure OpenAI, Vue 3, Spring Boot, FastAPI
 
-[자세히 보기 →](./projects/brainclone-KO.md) | [시연 동영상](https://www.youtube.com/watch?v=ZQj75tLnvwk)
+[자세히 보기 →](./projects/brainclone-KO.md) | [GitHub 저장소](https://github.com/Drakvor/OSS-Knowledge_BrainClone) | [시연 동영상](https://www.youtube.com/watch?v=ZQj75tLnvwk)
 
 ---
 

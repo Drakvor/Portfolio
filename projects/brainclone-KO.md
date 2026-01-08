@@ -3,6 +3,7 @@
 **기간**: 2025년 6월 - 현재 (진행 중)  
 **상태**: 1단계 운영 중, 지속적 고도화  
 **역할**: Tech Lead (Full-Stack & AI Platform)  
+**저장소**: [GitHub - OSS-Knowledge_BrainClone](https://github.com/Drakvor/OSS-Knowledge_BrainClone)  
 **시연**: [시연 동영상 보기](https://www.youtube.com/watch?v=ZQj75tLnvwk)
 
 ---
@@ -192,6 +193,7 @@ Tech Lead로서 다음을 담당했습니다:
 
 ## 링크
 
+- [GitHub 저장소](https://github.com/Drakvor/OSS-Knowledge_BrainClone)
 - [시연 동영상](https://www.youtube.com/watch?v=ZQj75tLnvwk)
 - [포트폴리오로 돌아가기](../README-KO.md)
 

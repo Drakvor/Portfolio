@@ -13,7 +13,7 @@ I am a Software Engineer with 3+ years of experience in full-stack development, 
 - **Email**: garham.a.kwon@gmail.com
 - **Location**: Seoul, Korea
 - **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **GitHub**: [https://github.com/Drakvor](https://github.com/Drakvor)
 
 ---
 
@@ -29,7 +29,7 @@ An organizational knowledge digitalization platform based on a multi-agent RAG p
 
 **Key Technologies**: MCP (Model Context Protocol), Multi-Agent Systems, Graph RAG, Neo4j, Qdrant, mem0, Azure OpenAI, Vue 3, Spring Boot, FastAPI
 
-[Read More →](./projects/brainclone.md) | [Demo Video](https://www.youtube.com/watch?v=ZQj75tLnvwk)
+[Read More →](./projects/brainclone.md) | [GitHub Repository](https://github.com/Drakvor/OSS-Knowledge_BrainClone) | [Demo Video](https://www.youtube.com/watch?v=ZQj75tLnvwk)
 
 ---
 
